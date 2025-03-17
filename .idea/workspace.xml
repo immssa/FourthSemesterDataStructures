@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a22e9d2b-77b0-47c3-bf23-168e91c8c0bc" name="Changes" comment="Лр0&#10;Файл-визитка создан">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/NewArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/NewClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/NewInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/ShellSort_Knuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/ShellSort_Sedgewick.java" afterDir="false" />
+    <list default="true" id="a22e9d2b-77b0-47c3-bf23-168e91c8c0bc" name="Changes" comment="Лр1&#10;Лабораторная работа выполнена">
+      <change afterPath="$PROJECT_DIR$/src/Lr2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr2/QuickSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr2/QuickSortArrayNoRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lr1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,18 +53,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.EnhancedArrayClient.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.NewClient.executor": "Run",
+    "Application.SortComparisonTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Lr1",
+    "git-widget-placeholder": "Lr2",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/FourthSemester/FourthSemesterDataStructures/src/Lr1",
+    "last_opened_file_path": "D:/FourthSemester/FourthSemesterDataStructures/src/Lr2",
     "onboarding.tips.debug.path": "D:/FourthSemester/FourthSemesterDataStructures/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FourthSemester\FourthSemesterDataStructures\src\Lr2" />
       <recent name="D:\FourthSemester\FourthSemesterDataStructures\src\Lr1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FourthSemester\FourthSemesterDataStructures\src\Lr2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,12 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740297582489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Лр1&#10;Лабораторная работа выполнена">
+      <option name="closed" value="true" />
+      <created>1741519098992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741519098992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Репозиторий создан" />
     <MESSAGE value="Лр0&#10;Файл-визитка создан" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лр0&#10;Файл-визитка создан" />
+    <MESSAGE value="Лр1&#10;Лабораторная работа выполнена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лр1&#10;Лабораторная работа выполнена" />
   </component>
 </project>
