@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a22e9d2b-77b0-47c3-bf23-168e91c8c0bc" name="Changes" comment="Лр1&#10;Лабораторная работа выполнена">
-      <change afterPath="$PROJECT_DIR$/src/Lr2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr2/QuickSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr2/QuickSortArrayNoRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a22e9d2b-77b0-47c3-bf23-168e91c8c0bc" name="Changes" comment="Лр1&#10;Лабораторная работа выполнена" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +55,7 @@
     "Application.SortComparisonTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Lr2",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/FourthSemester/FourthSemesterDataStructures/src/Lr2",
     "onboarding.tips.debug.path": "D:/FourthSemester/FourthSemesterDataStructures/src/Main.java"
